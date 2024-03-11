@@ -1,6 +1,6 @@
 <?php
 namespace daos;
-require_once 'config_bd.php';
+require_once 'config_db.php';
 class PdoBD {
 
     private static $_serveur = 'mysql:host=' . DBHOST . ':' . DBPORT;
