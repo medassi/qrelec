@@ -1,0 +1,35 @@
+#infos_utilisateur{
+    border: #6666ff solid thin ;
+    text-align: right ;
+    padding: 10px ;
+    width: 200px ;
+    margin-right: 20px ;
+    margin-left: auto ;
+}
+.enligne{
+    display: flex ;
+}
+
+#logo{
+    text-align: left ;
+    padding: 10px ;
+    width: 200px ;
+    margin-left: 20px ;
+    margin-right: auto ;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
